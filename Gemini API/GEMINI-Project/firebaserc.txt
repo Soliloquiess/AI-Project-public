@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "gemini-hackathon-6d8f3"
+  }
+}
